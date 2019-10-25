@@ -20,7 +20,7 @@ class Blog  extends Component {
 
 
     render(){
-             console.log("are my blogs in?",this.state)
+            // console.log("are my blogs in?",this.state)
          
            
              if(this.state.blogs.items){
