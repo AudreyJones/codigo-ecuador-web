@@ -19,3 +19,8 @@ const ActivitiesContainer = () => {
 }
 
 export default ActivitiesContainer
+
+//    // if(actvity.id ... is odd ){
+       //render image, then card
+       //otherwise render card then image
+       //two cards per activity, one with image and one i
